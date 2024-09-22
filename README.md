@@ -1,2 +1,3 @@
 # JupyterDataScience1
-Tarea crear cuaderno de Jupyter Notebook
+Curso DataScience IBM
+Tarea de crear cuaderno de Jupyter Notebook 
